@@ -1,0 +1,4 @@
+.idea/
+venv/
+working/
+credentials.py
